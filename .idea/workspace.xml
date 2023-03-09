@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="824378f8-139c-4029-bde2-60a28c40ed7e" name="Changes" comment="" />
+    <list default="true" id="824378f8-139c-4029-bde2-60a28c40ed7e" name="Changes" comment="Aktualizacja Main (merge)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="TestBranch" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -64,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678388176501</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Aktualizacja Main (merge)">
+      <created>1678388641194</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678388641194</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aktualizacja Main (na witaj świecie)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aktualizacja Main (na witaj świecie)" />
+    <MESSAGE value="Aktualizacja Main (merge)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aktualizacja Main (merge)" />
   </component>
 </project>
